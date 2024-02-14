@@ -52,3 +52,8 @@ index.html
         three.r112.js
         TweenLite.js
 ```
+
+## 修改背景音乐
+
+index.js文件第10403行
+audioId属性改为mp3文件的名字，不带.mp3
